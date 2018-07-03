@@ -1,0 +1,2 @@
+# Fractol
+Visualization mathematic fractals
